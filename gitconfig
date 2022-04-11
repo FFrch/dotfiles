@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = fanny.farrouch@gmail.com
+	name = Fanny Farrouch
